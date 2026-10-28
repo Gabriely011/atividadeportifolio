@@ -1,0 +1,22 @@
+ABOUT GABRIELY — PORTFÓLIO INICIAL
+
+Arquivos:
+- index.html: estrutura semântica da página
+- css/style.css: identidade visual responsiva
+- js/script.js: menu, saudação, tema, validação e ano automático
+- img/: imagens
+
+Como abrir:
+1. Extraia a pasta.
+2. Abra index.html no navegador.
+3. Para editar, use um editor como VS Code.
+
+Antes de publicar:
+- Revise o conteúdo e confirme que cada frase corresponde à sua experiência real.
+- Adicione fotos autorizadas da campanha de HPV na pasta img e atualize o HTML.
+- O terceiro card é uma área planejada para trabalhos futuros; substitua-o por um projeto real quando tiver material.
+- O formulário é demonstrativo e não envia dados.
+- Não publique telefone pessoal, e-mail principal, dados de pacientes ou fotos de terceiros sem autorização.
+- Se usar este código no trabalho, leia e pratique cada função JavaScript para conseguir explicá-la na defesa.
+- O comentário de uso de IA já está no topo de js/script.js; ajuste-o se necessário para refletir o uso real.
+- As fontes do Google Fonts precisam de conexão com a internet; há fontes alternativas no CSS.
